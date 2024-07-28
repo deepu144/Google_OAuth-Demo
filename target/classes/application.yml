@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: OAuthDemo
+  security:
+    oauth2:
+        client:
+          registration:
+            google:
+              client-id: 497666468200-3uk3okkbe6opaindqnht7iad8t8p47bo.apps.googleusercontent.com
+              client-secret: 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
+
